@@ -7,3 +7,4 @@
 7. Add second topping
 8. Carrying on through the toppings list
 9. Confirm oven temp of 340 degrees
+10. Put pizza into oven
