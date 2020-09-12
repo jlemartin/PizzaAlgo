@@ -10,3 +10,4 @@
 10. Put pizza into oven
 11. Set timer
 12. Clean and recover preparation area
+13. Remove pizza from oven
