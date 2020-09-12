@@ -6,3 +6,4 @@
 6. Add first topping 
 7. Add second topping
 8. Carrying on through the toppings list
+9. Confirm oven temp of 340 degrees
