@@ -13,3 +13,4 @@
 13. Remove pizza from oven
 14. Slice pizza 
 15. Admire the masterpiece of culinary delight
+16. Ring bell for alert wait staff
