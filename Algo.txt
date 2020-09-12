@@ -11,3 +11,4 @@
 11. Set timer
 12. Clean and recover preparation area
 13. Remove pizza from oven
+14. Slice pizza 
