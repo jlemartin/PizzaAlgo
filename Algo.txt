@@ -5,3 +5,4 @@
 5. Check list of toppings ordered
 6. Add first topping 
 7. Add second topping
+8. Carrying on through the toppings list
